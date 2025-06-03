@@ -7,5 +7,10 @@ Plots related with VBS VVJJ in Hadronic Final State
 ![VBS WLWL and WTWT](polarization.png)
 
 ## Plots VBS VBS ZZ Hadronic (Polarized) 
+![Mass SoftDrop VBS ZLZL](softmass.png)
 
+![Mass VBS ZLZL](masszz.png)
 
+![Pt VBS ZLZL](Ptzz.png)
+
+![eta VBS ZLZL](etazz.png)
